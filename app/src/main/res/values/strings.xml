@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">FoodApp</string>
     <string name="description">Burger often use a combination of fresh green and dried red chiles, red chile oil, and cheese.</string>
+    <string name="first">Fresh Food</string>
+    <string name="second">Fast Delivery</string>
+    <string name="third">Easy Payment</string>
+    <string name="intodesc">Easiest way to order and best qualiy food</string>
+    <string name="introthird">Easy payment via debit card or cash-on-delivery</string>
+    <string name="next">Next</string>
+    <string name="prev">prev</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
